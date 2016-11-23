@@ -22,5 +22,8 @@
     "resolve": "1.1.7",
     "shelljs": "0.6.0",
     "yargs": "3.32.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2"
   }
 }
